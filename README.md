@@ -22,7 +22,7 @@ Once all the tables were created I made a page for each to make a dashboard for 
 
 On each proceeding dashboard, I linked each of the pages to allow passage back and forth between them using interactive arrows
 
-![Customer Dashboard](https://github.com/Stephen-I/Data-Visualization-project/blob/main/Ass![]()ets/Images/Customer%20dashboard.png)
+![Customer Dashboard](https://github.com/Stephen-I/Data-Visualization-project/blob/main/Assets/Images/Customer%20dashboard.png)
 
 ![Sales team Dashboard](https://github.com/Stephen-I/Data-Visualization-project/blob/main/Assets/Images/Sales%20Team%20Dashboard.png)
 

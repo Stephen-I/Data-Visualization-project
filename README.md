@@ -3,6 +3,7 @@
 I was given some data spanning various aspects of customer sales data. First i had to normalise the data to make it viable for analysis.
 
 Normalising process:
+
 •	Separate all the columns into the different tables of Fact being the measurable values and any other tables
 
 •	Identify the primary keys connecting each of the tables

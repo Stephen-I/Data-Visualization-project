@@ -4,8 +4,11 @@ I was given some data spanning various aspects of customer sales data. First i h
 
 Normalising process:
 •	Separate all the columns into the different tables of Fact being the measurable values and any other tables
+
 •	Identify the primary keys connecting each of the tables
+
 •	Create the allotted amount of tables in power bi and single out the necessary columns for each
+
 •	Remove any duplicates to prevent errors within the data
 
 Once I had Normalised the data into the 4 seperate tables; 
